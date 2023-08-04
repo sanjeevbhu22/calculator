@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  .container
+  {
+    background-color:goldenrod;
+    border: 2px solid black;
+    border-radius:10px;
+    height: 420px;
+    padding-top: 20px;
+  }
+  button {
+    padding: 16px;
+    margin: 0 3px;
+    font-size: 15px;
+    width: 60px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .row {
+    margin: 8px 0;
+  }
+  
+  .row input {
+    height: 40px;
+    width: 265px;
+    margin: 0;
+    padding: 0;
+    font-size: 28px;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
